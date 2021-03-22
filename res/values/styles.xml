@@ -1,0 +1,7 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="a" parent="@style/Theme.AppCompat.Light.NoActionBar">
+<item name="android:windowNoTitle">true</item><item name="android:windowBackground">@color/b</item><item name="colorPrimary">@color/a</item><item name="colorPrimaryDark">@color/b</item><item name="colorAccent">@color/c</item><item name="android:statusBarColor">@color/b</item><item name="android:windowLightStatusBar">true</item><item name="android:navigationBarColor">@color/d</item></style>
+
+</resources>
